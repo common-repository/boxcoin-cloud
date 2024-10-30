@@ -1,0 +1,1 @@
+## Boxcoin Cloud Wordpress Plugin

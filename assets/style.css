@@ -1,0 +1,14 @@
+
+.bxc-table {
+    max-width: 800px;
+}
+
+.bxc-table input[type=text], .bxc-table textarea, .bxc-table select {
+    width: 100%;
+}
+
+.bxc-table td label {
+    display: block;
+    margin: 5px 0;
+    font-weight: 600;
+}
